@@ -6,7 +6,9 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Hack Nerd Font:style=Regular:size=10";
+static char *font2[] = { "FontAwesome:style:Powerline:pixelsize=10" };
 static int borderpx = 35;
+
 
 /*
  * What program is execed by st depends of these precedence rules:
