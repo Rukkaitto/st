@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font:style=Regular:size=10";
-static char *font2[] = { "FontAwesome:style:Powerline:pixelsize=10" };
+static char *font = "Hack:pixelsize=14:antialias=true:autohint:true";
+static char *font2[] = { "FontAwesome:style:Powerline:pixelsize=15:antialias=true:autohint:true" };
 static int borderpx = 35;
 
 
